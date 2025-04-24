@@ -1,3 +1,8 @@
+usage: trabalho2.py [-h] [-u USER_AGENT]
+domain subdomain_wordlist path_wordlist output_file
+
+Exemplo: python3 trabalho2.py site.com.br subdominioslista.txt listadefuzzing.txt nomedoarquivo.txt
+
 #!/usr/bin/python3
 import argparse
 import requests
