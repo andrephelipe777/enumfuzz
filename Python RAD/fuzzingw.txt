@@ -1,0 +1,7 @@
+access.log
+admin
+index.php
+wp-admin
+mail
+robots.txt
+sitemap.xml
